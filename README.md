@@ -1,9 +1,9 @@
-`👋 Hey, I'm **Aryan Nagar** also known with the name of **Kardashev**.   
-📒 I'm from India. I'm a  student and a **frontend web developer**.`
-`But I shifted to 🖥️ AI devlopment and Machine learning this year.`  
-`🌌 I love  space and technology.`   
+`👋 Hey, I'm **Aryan Nagar** also known with the name of **Kardashev**.`  
+`📒 I'm from India. I'm a  student and a **frontend web developer**.`  
+`🖥️ But I shifted to AI devlopment and Machine learning this year.`  
+`🌌 I love  space and technology.`  
 `✉️You can Contact me by my e-mail [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) or find me on 📷[Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar).`  
-`⚒️ Here are some of my [Projects](https://aryansnagar.github.io/projects) currently I am working on.`     
+`⚒️ Here are some of my [Projects](https://aryansnagar.github.io/projects) currently I am working on.`  
 `🕸️ Visit my  [Website](https://aryansnagar.github.io) for more information.`  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
