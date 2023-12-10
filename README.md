@@ -1,6 +1,6 @@
 ## Hi there, I'm Aryan Nagar! 👋
 
-I'm a student of Computer Science at Meerut Institute of Technology, Meerut. I'm a frontend web developer. I love Space and tech.
+<p style="color: green; width: 50%; "> I'm a student of Computer Science at Meerut Institute of Technology, Meerut. I'm a frontend web developer. I love Space and tech. </p> 
 
 📫 Get in Touch with me
 
