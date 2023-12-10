@@ -2,7 +2,7 @@
 
 I'm a student of Computer Science at Meerut Institute of Technology, Meerut. I'm a frontend web developer. I love Space and tech.
 
-###📫 Get in Touch with me
+📫 Get in Touch with me
 
 - ✉️ Email: [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) 
 - 📷 Instagram: [@aryansnagar](https://www.instagram.com/aryansnagar/)
