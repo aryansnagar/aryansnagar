@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Nagar! 👋
 
-I'm a computer science student at Meerut Institute of Technology, Meerut. Passionate about space, technology, and the fascinating world of AI and machine learning.
+
 
 ## 🚀 About Me
 
@@ -39,4 +39,4 @@ I'm a computer science student at Meerut Institute of Technology, Meerut. Passio
 
 ## 📚 Currently Learning
 
-- 🤖 Diving into the exciting world of AI and machine learning.
+-  Still learning c and moving towards AI development.
