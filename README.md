@@ -34,8 +34,8 @@ I'm a computer science student at Meerut Institute of Technology, Meerut. Passio
 
 - ✉️ Email: [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)
 
-- 📷 Instagram: [@aryansnagar](https://www.instagram.com/aryansnagar/)
-- 🐦 GitHub: [@aryansnagar](https://github.com/aryansnagar)
+- 📷 Instagram: [@aryansnagar](https://www.instagram.com/aryansnagar/)![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+- 🐦 GitHub: [@aryansnagar](https://github.com/aryansnagar)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📚 Currently Learning
 
