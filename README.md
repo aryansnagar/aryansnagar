@@ -1,14 +1,14 @@
 # Hello,
 
-I'm <b> Aryan Nagar </b>.
-I'm from India.
-I'm student and a frontend Web developer.
-I'm in AI devlopment and Machine learning.
-I love space and technology.
+I'm <b> Aryan Nagar </b>. <br>
+I'm from India. <br>
+I'm student and a frontend Web developer. <br>
+I'm in AI devlopment and Machine learning. <br>
+I love space and technology. <br>
 
-`Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)
-`Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/)
-`GitHub`[@aryansnagar](https://github.com/aryansnagar)
+`Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  <br>
+`Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/)  <br>
+`GitHub`[@aryansnagar](https://github.com/aryansnagar)  <br>
 
 Programming Languages:
   
