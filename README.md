@@ -1,15 +1,14 @@
 # Hello,
 
+I'm <b> Aryan Nagar </b>.
+I'm from India.
+I'm student and a frontend Web developer.
+I'm in AI devlopment and Machine learning.
+I love space and technology.
 
-
-
-
-
-<p style="color: green; "> I'm a student of Computer Science at Meerut Institute of Technology, Meerut. I'm a frontend web developer. I love Space and tech. </p> 
-
-📫 Get in Touch with me
-
-`Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) `Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/) `GitHub`[@aryansnagar](https://github.com/aryansnagar)
+`Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)
+`Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/)
+`GitHub`[@aryansnagar](https://github.com/aryansnagar)
 
 Programming Languages:
   
