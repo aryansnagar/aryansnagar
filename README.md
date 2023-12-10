@@ -5,6 +5,7 @@ I'm from India. <br>
 I'm student and a frontend Web developer. <br>
 I'm in AI devlopment and Machine learning. <br>
 I love space and technology. <br>
+Find me on [Instagram](https://www.instagram.com/aryansnagar/)
 
 `Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  <br>
 `Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/)  <br>
