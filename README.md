@@ -2,7 +2,7 @@
 `📒 I'm from India. I'm a  student and a **frontend web developer**.`  
 `🖥️ But I shifted to AI devlopment and Machine learning this year.`  
 `🌌 I love  space and technology.`  
-`✉️ You can Contact me by my e-mail [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) or find me on 📷[Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar).`  
+`✉️ You can Contact me by my e-mail [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) <a href="mailto:aryannagarco@gmail.com"> mail </a> or find me on 📷[Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar).`  
 `⚒️ Here are some of my [Projects](https://aryansnagar.github.io/projects) currently I am working on.`  
 `🕸️ Visit my  [Website](https://aryansnagar.github.io) for more information.`  
 
