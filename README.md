@@ -6,7 +6,7 @@
 - I'm in AI devlopment and Machine learning. <br>
 - I love space and technology. <br>
 - Find me on [Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar)
-
+---
 `Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  <br>
 
 `Website`[Website](https://aryansnagar.github.io)  <br>
