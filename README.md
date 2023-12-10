@@ -1,13 +1,8 @@
 # Hello
 
-I'm ***Aryan Nagar*** . also known With the name Kardashev  
-I'm from India.  
-I'm student and a frontend Web developer.  
-I'm in AI devlopment and Machine learning.  
-I love space and technology.  
-Find me on [Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar)
+I'm ***Aryan Nagar*** . also known With the name Kardashev I'm from India. I'm student and a frontend Web developer. I'm in AI devlopment and Machine learning. I love space and technology.  
 
-`Email` [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  
+You can Contact me by my e-mail [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) or find me on [Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar)  
 `Website` [Website](https://aryansnagar.github.io)  
 `Projects` [Projects](https://aryansnagar.github.io/projects)  
 
