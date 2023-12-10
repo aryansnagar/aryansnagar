@@ -1,10 +1,8 @@
-# Hi there, I'm Aryan Nagar! 👋
+## Hi there, I'm Aryan Nagar! 👋
+I'm a student of Computer Science at Meerut Institute of Technology, Meerut.
 
 
-
-## 🚀 About Me
-
-- 🎓 I'm a student of Computer Science at Meerut Institute of Technology, Meerut.
+- 🎓 
 - 💡 I'm a frontend web developer.
 - 🌌 I love Space and tech.
 
