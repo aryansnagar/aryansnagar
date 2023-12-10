@@ -1,6 +1,6 @@
 # Hello,
 
-I'm <b> Aryan Nagar </b>. <br>
+## I'm <b> Aryan Nagar </b>. <br>
 I'm from India. <br>
 I'm student and a frontend Web developer. <br>
 I'm in AI devlopment and Machine learning. <br>
