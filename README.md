@@ -4,9 +4,7 @@
 
 📫 Get in Touch with me
 
-- ✉️ `Email`: [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) 
-- 📷 `Instagram`: [@aryansnagar](https://www.instagram.com/aryansnagar/)
-- 🐦 `GitHub`:    [@aryansnagar](https://github.com/aryansnagar)
+`Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) `Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/) `GitHub`[@aryansnagar](https://github.com/aryansnagar)
 
 Programming Languages:
   
