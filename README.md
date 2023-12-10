@@ -1,6 +1,6 @@
 # Hello
 
-I'm <b> Aryan Nagar </b>. also known With the name Kardashev  
+I'm ***Aryan Nagar*** . also known With the name Kardashev  
 I'm from India.  
 I'm student and a frontend Web developer.  
 I'm in AI devlopment and Machine learning.  
