@@ -4,8 +4,6 @@ I'm a student of Computer Science at Meerut Institute of Technology, Meerut. I'm
 
 📫 Get in Touch with me ✉️ Email: [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  or yoiu can Follow me on social 📷 Instagram: [@aryansnagar](https://www.instagram.com/aryansnagar/) and 🐦 GitHub: [@aryansnagar](https://github.com/aryansnagar) .
 
-## 💻 Skills
-
 Programming Languages:
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
