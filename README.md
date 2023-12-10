@@ -8,7 +8,7 @@ I'm a student of Computer Science at Meerut Institute of Technology, Meerut. I'm
 ✉️ Email: [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) <br>
 <br>
 📷 Instagram: [@aryansnagar](https://www.instagram.com/aryansnagar/) <br>
-🐦 GitHub: [@aryansnagar](https://github.com/aryansnagar) .
+🐦 GitHub:    [@aryansnagar](https://github.com/aryansnagar) .
 
 Programming Languages:
   
