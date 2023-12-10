@@ -5,11 +5,9 @@
 - I'm student and a frontend Web developer. <br>
 - I'm in AI devlopment and Machine learning. <br>
 - I love space and technology. <br>
-- Find me on [Instagram](https://www.instagram.com/aryansnagar/)
+- Find me on [Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar)
 
 `Email`[aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  <br>
-`Instagram`[@aryansnagar](https://www.instagram.com/aryansnagar/)  <br>
-`GitHub`[@aryansnagar](https://github.com/aryansnagar)  <br>
 
 `Website`[Website](https://aryansnagar.github.io)  <br>
 `Projects`[Projects](https://aryansnagar.github.io/projects)  <br>
