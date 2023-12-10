@@ -4,9 +4,9 @@ I'm a computer science student at Meerut Institute of Technology, Meerut. Passio
 
 ## 🚀 About Me
 
-- 🎓 Student of Computer Science at Meerut Institute of Technology, Meerut.
-- 💡 Exploring the vast realms of AI and machine learning.
-- 🌌 Space enthusiast and tech lover.
+- 🎓 I'm a student of Computer Science at Meerut Institute of Technology, Meerut.
+- 💡 I'm a frontend web developer.
+- 🌌 I love Space and tech.
 
 ## 🛠️ Skills
 
@@ -26,6 +26,8 @@ I'm a computer science student at Meerut Institute of Technology, Meerut. Passio
 - 🔨 Tools :
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ## 📚 Currently Learning
 
@@ -34,8 +36,6 @@ I'm a computer science student at Meerut Institute of Technology, Meerut. Passio
 ## 📫 Get in Touch
 
 - ✉️ Email: [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)
-
-## 📱Social Media
 
 - 📷 Instagram: [@aryansnagar](https://www.instagram.com/aryansnagar/)
 - 🐦 GitHub: [@aryansnagar](https://github.com/aryansnagar)
