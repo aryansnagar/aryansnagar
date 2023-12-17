@@ -1,4 +1,4 @@
-👋 Hey, I am `Aryan Nagar` also known with the name of `Kardashev`.  
+👋 Hey, I am `Aryan Nagar` and I am `superman`.  
 🛕 I'm from India.  
 📒 I'm a  student and a `frontend web developer`.  
 🖥️ But I shifted to `AI devlopment` and `Machine learning` this year.  
