@@ -1,4 +1,4 @@
-👋 Hey, I am `Aryan Nagar` and I am `superman`.  
+👋 Hey, I am `Aryan Nagar`.  
 🛕 I'm from India.  
 📒 I'm a  student and a `frontend web developer`.  
 🖥️ But I shifted to `AI devlopment` and `Machine learning` this year.  
