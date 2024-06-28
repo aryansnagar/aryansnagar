@@ -1,8 +1,6 @@
 👋 Hey, I am `Aryan Nagar`.  
-🛕 I'm from India.  
-📒 I'm a  student and a `frontend web developer`.  
-🖥️ But I shifted to `AI devlopment` and `Machine learning` this year.  
-🌌 I love  space and technology.  
+📒 I'm a  student and a `developer`.  `web/app/ai`
+
 
 ---
 
