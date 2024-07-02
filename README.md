@@ -1,5 +1,5 @@
 👋 Hey, I am `Aryan Nagar`.  
-📒 I'm a  student and a `developer` `web/app/ai`
+📒 I'm a  student and a `developer` `web/app/ai`.  
 ✉️ You can Contact me by my e-mail [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)  
 📷 Follow me on [Instagram](https://www.instagram.com/aryansnagar/) and [Github](https://github.com/aryansnagar).  
 🕸️ Visit my  [Website](https://aryansnagar.github.io) for more information.  
