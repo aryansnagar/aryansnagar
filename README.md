@@ -1,3 +1,3 @@
 Website - [aryannagarml.me](https://aryannagarml.me/)   
-Email - [aryansnagar@yahoo.com](mailto:aryansnagar@yahoo.com)   
+Email - [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)   
 GitHub - [aryansnagar](https://github.com/aryansnagar)   
