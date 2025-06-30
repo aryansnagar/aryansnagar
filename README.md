@@ -1,5 +1,5 @@
 Website - [aryannagar.vercel.app](https://aryannagar.vercel.app/)   
 Email - [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)   
 GitHub - [aryansnagar](https://github.com/aryansnagar)   
-Blog - [Posts](https://aryannagar.vercel.app/blog.html)  
+Blog - [aryannagar](https://aryannagar.vercel.app/blog.html)  
 Signal - [aryannagar.01](https://signal.me/#eu/iCTV60Vvdtvb25xLqoszhuNXxFpYH9zm0mQWe3U558wDDV6jXUNM6KiN__DkRBav)  
