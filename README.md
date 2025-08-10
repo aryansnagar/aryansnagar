@@ -1,2 +1,1 @@
-Website - [aryannagar.vercel.app](https://aryannagar.vercel.app/)   
-Email - [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)
+Website - [aryannagar.vercel.app](https://aryannagar.vercel.app/) Email - [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com) GitHub - [aryansnagar](https://github.com/aryansnagar) LinkedIn - [aryansnagar](https://www.linkedin.com/in/aryansnagar/)
